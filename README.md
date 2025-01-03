@@ -20,7 +20,7 @@ Before running the project, make sure you have the following installed:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/MrNewbie3/prodigy.git
 cd your-repository-name
 ```
 
