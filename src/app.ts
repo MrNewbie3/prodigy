@@ -6,7 +6,7 @@ app.use(express.json());
 
 app.get("/", (req: Request, res: Response) => {
   const data =  req.body
-  res.send("Welcome to the E-Learning Backend!");
+  res.status(200).json({"data":"any"})
 });
 
 export default app;
